@@ -1,6 +1,7 @@
 package ru.netology.repository;
 
 import ru.netology.domain.Ticket;
+
 public class TicketRepository {
     private Ticket[] tickets = new Ticket[0];
 
